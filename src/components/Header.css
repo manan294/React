@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+}
+
+.logo h1{
+    font-size: 30px;
+}
+
+.main ul{
+    display: flex;
+    gap: 30px;
+
+}
